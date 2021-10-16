@@ -1,5 +1,6 @@
 {
   "name": "vuepress-starter",
+  "envId": "wray-blog-8gu8ltnu9fc1d4de",
   "version": "1.0.0",
   "description": "CloudBase Framework VuePress Example",
   "main": "index.js",
